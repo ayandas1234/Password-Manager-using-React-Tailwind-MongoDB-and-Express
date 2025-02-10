@@ -123,7 +123,10 @@ npm run dev
 ---
 
 ## 🎥 Video
-<video controls src="Frontend.mp4" title="Title"></video>
+
+
+https://github.com/user-attachments/assets/75b3ea17-64ed-4753-bfbe-9ae06eb6a375
+
 
 ---
 
