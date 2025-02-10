@@ -142,7 +142,9 @@ npm run dev
 
 ## 🎥 Video
 
-<video controls src="Frontend and Backend.mp4" title="Title"></video>
+
+https://github.com/user-attachments/assets/0590b0cd-4ac6-472f-9d4f-a2c438335d22
+
 
 ---
 
